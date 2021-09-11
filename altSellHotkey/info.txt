@@ -1,0 +1,11 @@
+{
+	"Name": "Alt Hotkey: Sell Buildings",
+	"ID": "altSellHotkey",
+	"Author": "Drakinite",
+	"Description": "A simple mod that makes the \"alt\" key enable selling mode for buildings.",
+	"ModVersion": 1,
+	"GameVersion": 2.042,
+	"Date": "10/09/2021",
+	"Dependencies": [],
+	"AllowSteamAchievs":1
+}
